@@ -1,4 +1,6 @@
-📊 Commercial Energy Consumption Analysis
+**📊 Commercial Energy Consumption Analysis**
+--
+
 📌 Overview
 
 This project presents a comprehensive analysis of the Statewide Commercial Baseline Study of Energy Using Equipment (2019) dataset. The goal is to explore energy consumption patterns across commercial buildings and derive actionable insights for improving efficiency and sustainability.
